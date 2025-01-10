@@ -17,6 +17,10 @@ A fully functional blog application that allows users to sign up, log in, create
 - Create, Read, Update, Delete (CRUD) Posts
 - User Profile Management
 
+### Credentials
+- Username: saikat
+- Password: saikat
+
 ### Screenshots
 - **Figure 1:** User Login
   ![User Login](Output/Blog%20User%20Login.png)
@@ -67,6 +71,10 @@ A personal portfolio website built using Django to showcase projects, skills, an
 - Dynamic project display
 - Contact form integration
 - Responsive design
+
+### Credentials
+- Username: saikat
+- Password: saikat
 
 ### Screenshots
 - **Figure 1:** Portfolio Screen 1
