@@ -18,16 +18,22 @@ A fully functional blog application that allows users to sign up, log in, create
 - User Profile Management
 
 ### Screenshots
-| Screen | Image |
-|-------|-------|
-| User Login | ![User Login](Output/Blog%20User%20Login.png) |
-| User Signup | ![User Signup](Output/Blog%20User%20Signup.png) |
-| Home Page | ![Home Page](Output/Blog%20Home%20Page.png) |
-| Blog View | ![Blog View](Output/Blog%20View.png) |
-| Blog Update | ![Blog Update](Output/Blog%20Update.png) |
-| Blog Post | ![Blog Post](Output/Blog%20Post.png) |
-| User Profile | ![User Profile](Output/Blog%20User%20Profile.png) |
-| Profile Update | ![Profile Update](Output/Blog%20User%20Profile%20Update.png) |
+- **Figure 1:** User Login
+  ![User Login](Output/Blog%20User%20Login.png)
+- **Figure 2:** User Signup
+  ![User Signup](Output/Blog%20User%20Signup.png)
+- **Figure 3:** Home Page
+  ![Home Page](Output/Blog%20Home%20Page.png)
+- **Figure 4:** Blog View
+  ![Blog View](Output/Blog%20View.png)
+- **Figure 5:** Blog Update
+  ![Blog Update](Output/Blog%20Update.png)
+- **Figure 6:** Blog Post
+  ![Blog Post](Output/Blog%20Post.png)
+- **Figure 7:** User Profile
+  ![User Profile](Output/Blog%20User%20Profile.png)
+- **Figure 8:** Profile Update
+  ![Profile Update](Output/Blog%20User%20Profile%20Update.png)
 
 ### Setup Instructions
 1. Clone the repository:
@@ -63,12 +69,14 @@ A personal portfolio website built using Django to showcase projects, skills, an
 - Responsive design
 
 ### Screenshots
-| Screen | Image |
-|-------|-------|
-| Portfolio Screen 1 | ![Portfolio 1](Output/Personal%20Portfolio%201.png) |
-| Portfolio Screen 2 | ![Portfolio 2](Output/Personal%20Portfolio%202.png) |
-| Portfolio Screen 3 | ![Portfolio 3](Output/Personal%20Portfolio%203.png) |
-| Portfolio Screen 4 | ![Portfolio 4](Output/Personal%20Portfolio%204.png) |
+- **Figure 1:** Portfolio Screen 1
+  ![Portfolio 1](Output/Personal%20Portfolio%201.png)
+- **Figure 2:** Portfolio Screen 2
+  ![Portfolio 2](Output/Personal%20Portfolio%202.png)
+- **Figure 3:** Portfolio Screen 3
+  ![Portfolio 3](Output/Personal%20Portfolio%203.png)
+- **Figure 4:** Portfolio Screen 4
+  ![Portfolio 4](Output/Personal%20Portfolio%204.png)
 
 ### Setup Instructions
 1. Clone the repository:
