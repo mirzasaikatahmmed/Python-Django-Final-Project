@@ -42,7 +42,7 @@ A fully functional blog application that allows users to sign up, log in, create
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Blog
+   cd blogproj
    ```
 3. Install the required packages:
    ```bash
